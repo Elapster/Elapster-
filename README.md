@@ -21,3 +21,13 @@ PyDjangoAPI | NodeRequests | MySQLNode | DjangoMagic | PythonRocks | CodeTogethe
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+### :man_technologist: About Me :
+
+I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope:I'm work as a programmer and am involved in backend development for creating web applications, writing scripts, and working with databases.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Yandex Practicum and read tech articles.
